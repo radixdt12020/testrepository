@@ -3,3 +3,4 @@ clone
 fetch 
 pull
 push
+new add
