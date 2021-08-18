@@ -1,0 +1,6 @@
+Day 2 task 
+clone
+fetch 
+pull
+push
+new add
